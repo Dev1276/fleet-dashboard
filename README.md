@@ -53,5 +53,16 @@ Open http://localhost:5173 and sign in with the password you set in `server/.env
 - Split `App.jsx` into components and a `useFleetData` hook
 - Unit tests for status and date helpers
 
+
+Some Screenshots of current business fleet using it are
+<br>
+<img width="500" height="250" alt="Screenshot (413)" src="https://github.com/user-attachments/assets/da431526-b475-4122-9bb6-2162d4ebb620" />
+<img width="500" height="250" alt="Screenshot (414)" src="https://github.com/user-attachments/assets/587e34b4-cf04-49bf-aefa-b32ca81f84c2" />
+<img width="500" height="250" alt="Screenshot (415)" src="https://github.com/user-attachments/assets/1737132b-3196-4880-8917-32cd99c06039" />
+<img width="500" height="250"  alt="Screenshot (416)" src="https://github.com/user-attachments/assets/ada71414-bf5d-476a-88d7-d5c05790f148" />
+<img width="500" height="250" alt="Screenshot (417)" src="https://github.com/user-attachments/assets/476f4c89-5a7e-45f2-903c-4b3700a3328e" />
+
+
+
 ## Author
 Devansh Garg - [LinkedIn](https://www.linkedin.com/in/devansh-garg-407413322/)
