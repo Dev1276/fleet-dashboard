@@ -1,0 +1,25 @@
+# Dependencies & builds
+node_modules/
+dist/
+build/
+
+# Secrets - NEVER commit these
+.env
+.env.*
+!.env.example
+google-credentials.json
+*credentials*.json
+*.pem
+*.key
+
+# Private business assets
+**/public/vp.jpeg
+client/src/vehicleBrands.local.js
+*.xlsx
+*.csv
+
+# OS / editor / logs
+.DS_Store
+Thumbs.db
+.vscode/
+*.log
